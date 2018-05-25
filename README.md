@@ -1,2 +1,2 @@
-# angular_01
-ejemplo base angular 5
+# angular 01
+ejemplo base curso angular 5
